@@ -33,7 +33,7 @@ public class Main {
         }
     }
     public static void task4() {
-        byte age = 18;
+        byte age = 19;
         if (age >= 2 && age <= 6) {
             System.out.printf("Если возраст человека равен %d, то ему нужно ходить в детский сад", age);
         } else if (age >= 7 && age <= 17) {
